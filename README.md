@@ -50,21 +50,3 @@ A aplicação possui uma interface voltada para a montagem de equipes de futebol
 O usuário pode selecionar jogadores, definir a formação da equipe e organizar sua escalação de acordo com sua preferência.
 
 Também é possível adicionar novos jogadores à aplicação, permitindo maior liberdade na criação das equipes.
-
-## 🚀 Como executar o projeto
-
-### Pré-requisitos
-
-Para executar o projeto localmente, é necessário ter instalado:
-
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
-- Android Studio ou outro ambiente de desenvolvimento compatível
-- Navegador compatível para execução da versão Web
-
-### Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/IvsonEmanuel22/Flutter.git
