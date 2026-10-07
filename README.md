@@ -1,16 +1,70 @@
-# flutter_application_1
+# ⚽ Copa 2026 - Team Builder
 
-A new Flutter project.
+Aplicação Mobile/Web desenvolvida com Flutter para criação e gerenciamento de escalações utilizando jogadores da Copa do Mundo de 2026.
 
-## Getting Started
+O projeto permite que o usuário crie uma conta, realize login, monte sua própria equipe escolhendo entre diferentes formações e também cadastre jogadores personalizados.
 
-This project is a starting point for a Flutter application.
+## 📱 Sobre o projeto
 
-A few resources to get you started if this is your first Flutter project:
+O **Copa 2026 - Team Builder** foi desenvolvido como um projeto acadêmico e prático com o objetivo de aplicar conceitos de desenvolvimento de aplicações utilizando Flutter e Dart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A aplicação permite ao usuário criar sua própria equipe de futebol de forma interativa, escolhendo jogadores e organizando-os em diferentes formações táticas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Além dos jogadores disponíveis na aplicação, o usuário também pode criar seus próprios jogadores personalizados.
+
+## ✨ Funcionalidades
+
+- 👤 Criação de conta
+- 🔐 Login de usuário
+- ⚽ Lista de jogadores da Copa do Mundo de 2026
+- 📝 Criação de jogadores personalizados
+- 📋 Montagem de escalações
+- 🔄 Escolha entre diferentes formações táticas
+- 📱 Aplicação compatível com dispositivos móveis
+- 🌐 Aplicação para Web
+- 🏆 Organização de jogadores em uma equipe
+
+## 🛠️ Tecnologias utilizadas
+
+- **Dart**
+- **Flutter**
+- **Flutter Web**
+- Desenvolvimento de aplicações Mobile
+
+## 🎯 Objetivos do projeto
+
+O projeto foi desenvolvido com foco no aprendizado e aplicação prática de conceitos como:
+
+- Desenvolvimento de interfaces
+- Criação de aplicações multiplataforma
+- Organização de informações
+- Manipulação de dados
+- Lógica de programação
+- Desenvolvimento de funcionalidades de autenticação
+- Interação do usuário com a aplicação
+
+## 📱 Aplicação
+
+A aplicação possui uma interface voltada para a montagem de equipes de futebol.
+
+O usuário pode selecionar jogadores, definir a formação da equipe e organizar sua escalação de acordo com sua preferência.
+
+Também é possível adicionar novos jogadores à aplicação, permitindo maior liberdade na criação das equipes.
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+Para executar o projeto localmente, é necessário ter instalado:
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- Android Studio ou outro ambiente de desenvolvimento compatível
+- Navegador compatível para execução da versão Web
+
+### Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/IvsonEmanuel22/Flutter.git
